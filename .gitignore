@@ -1,0 +1,15 @@
+Lesson 30_database.test.test_
+Lesson 31_database.test.test_
+.idea
+.venv
+*.db
+*.json
+test_text_2.txt
+test_text_1.txt
+test_text.txt
+test_json.txt
+
+*.log
+*py[co]
+__pycache__
+.env
